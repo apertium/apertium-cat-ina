@@ -1,0 +1,9 @@
+# randomly generated forms
+cattos
+habite
+homines
+ove
+vermes
+,
+.
+;

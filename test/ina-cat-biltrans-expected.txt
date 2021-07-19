@@ -1,0 +1,16 @@
+[0DUCxD10owuT#0] ^,<cm>/,<cm>$
+[/0DUCxD10owuT]
+[Jj20mofa6c64#0] ^catto<n><pl>/gat<n><m><pl>$
+[/Jj20mofa6c64]
+[O4aayQ80KiH_#0] ^ove<n><sg>/ovella<n><f><sg>$
+[/O4aayQ80KiH_]
+[QbgF6nrAFOI1#0] ^;<sent>/;<sent>$
+[/QbgF6nrAFOI1]
+[fc77cQEH_cLs#0] ^haber<vblex><pp>/posseir<vblex><pp>$
+[/fc77cQEH_cLs]
+[lENWGyVespPH#0] ^verme<n><pl>/cuc<n><m><pl>$
+[/lENWGyVespPH]
+[tC4BaYVTg51W#0] ^homine<n><pl>/home<n><m><pl>$
+[/tC4BaYVTg51W]
+[zbTuKuppzGqD#0] ^.<sent>/.<sent>$
+[/zbTuKuppzGqD]

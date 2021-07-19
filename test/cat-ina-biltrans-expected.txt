@@ -1,0 +1,18 @@
+[65BOLFeiVt82#0] ^de<pr>/de<pr>$
+[/65BOLFeiVt82]
+[OqiUhzIZ-fid#0] ^menjar<vblex><imp><p3><sg>/mangiar<vblex><imp><p3><sg>$
+[/OqiUhzIZ-fid]
+[QbgF6nrAFOI1#0] ^;<sent>/;<sent>$
+[/QbgF6nrAFOI1]
+[RXWdQBLaGl1r#0] ^de<pr>/de<pr>$
+[/RXWdQBLaGl1r]
+[jlFx4yHuLdBi#0] ^demanar<vblex><ifi><p2><pl>/demandar<vblex><ifi><p2><pl>$
+[/jlFx4yHuLdBi]
+[p80KgIvqVm7B#0] ^gos<n><m><pl>/can<n><pl>$
+[/p80KgIvqVm7B]
+[u_X_MHCo9m-f#0] ^de<pr>/de<pr>$
+[/u_X_MHCo9m-f]
+[ypeBEsobvcr6#0] ^a<pr>/a<pr>/in<pr>$
+[/ypeBEsobvcr6]
+[zbTuKuppzGqD#0] ^.<sent>/.<sent>$
+[/zbTuKuppzGqD]

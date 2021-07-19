@@ -1,0 +1,10 @@
+{
+    "cat-ina": {
+        "input": "cat-ina-input.txt",
+        "mode": "cat-ina"
+    },
+    "ina-cat": {
+        "input": "ina-cat-input.txt",
+        "mode": "ina-cat"
+    }
+}

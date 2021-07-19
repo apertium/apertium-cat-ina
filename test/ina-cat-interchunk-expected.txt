@@ -1,0 +1,16 @@
+[0DUCxD10owuT#0] ^default<default>{^,<cm>$}$
+[/0DUCxD10owuT]
+[Jj20mofa6c64#0] ^default<default>{^gat<n><m><pl>$}$
+[/Jj20mofa6c64]
+[O4aayQ80KiH_#0] ^default<default>{^ovella<n><f><sg>$}$
+[/O4aayQ80KiH_]
+[QbgF6nrAFOI1#0] ^sent<SENT>{^;<sent>$}$
+[/QbgF6nrAFOI1]
+[fc77cQEH_cLs#0] ^SN<nbr>{^posseir<vblex><pp><p3><sg>$}$
+[/fc77cQEH_cLs]
+[lENWGyVespPH#0] ^default<default>{^cuc<n><m><pl>$}$
+[/lENWGyVespPH]
+[tC4BaYVTg51W#0] ^default<default>{^home<n><m><pl>$}$
+[/tC4BaYVTg51W]
+[zbTuKuppzGqD#0] ^sent<SENT>{^.<sent>$}$
+[/zbTuKuppzGqD]
