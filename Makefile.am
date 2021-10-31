@@ -206,7 +206,7 @@ EXTRA_DIST=					\
 		$(BASENAME).$(PREFIX2).t2x	\
 		$(BASENAME).$(PREFIX2).t3x	\
 		modes.xml	\
-		$(PREFIX1).preferences.xml
+		$(PREFIX2).preferences.xml
 
 ###############################################################################
 ## Installation
